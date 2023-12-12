@@ -25,13 +25,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.Testing"/>
+			<item value="com.Cucumber"/>
 		</list>
 		<list key="groupId">
-			<item value="com.Testing"/>
+			<item value="com.Cucumber"/>
 		</list>
 		<list key="artifactId">
-			<item value="MymavenProject"/>
+			<item value="MyCucumberproject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
