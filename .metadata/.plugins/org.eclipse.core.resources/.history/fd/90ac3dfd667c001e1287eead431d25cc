@@ -1,0 +1,119 @@
+package com.OrangeHRM;
+
+import java.io.FileInputStream;
+//import java.util.concurrent.TimeUnit;
+import java.io.IOException;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.edge.EdgeDriver;
+//import org.openqa.selenium.support.ui.ExpectedCondition;
+//import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class Loginpage {
+
+	public static void main(String[] args) throws IOException {
+		
+          EdgeDriver driver;
+          String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard";
+          
+          //Autmating edge Browser
+          
+          System.setProperty("webdriver.edge.driver","C:\\Users\\NIHARIKA\\Desktop\\Neha\\Autmation\\BrowserDriverfiles\\msedgedriver.exe" );
+          driver=new EdgeDriver();
+          
+          //Navigation to Orangehrm ApplicationUrlAddress
+          
+          driver.get(applicationUrlAddress);
+          System.out.println("****Sucessfully launched edge Browser***");
+         
+          FileInputStream orangeHRMApplicationlgintestdata = new FileInputStream("C:\\Users\\NIHARIKA\\Desktop\\Neha\\Autmation\\src\\com\\OrangeApplicationTestDataFiles\\OrangeHRMApplicationLogInTestData.xlsx");
+          XSSFWorkbook workbook=new XSSFWorkbook(orangeHRMApplicationlgintestdata);  
+          XSSFSheet loginTestDataSheet = workbook.getSheet("LogInTestData");
+          
+          Row LogInTestDataRow=loginTestDataSheet.getRow(1);
+          Cell loginTestdatarowofussernamecell = LogInTestDataRow.getCell(0);
+        		  
+          
+          String userNameTestData=loginTestdatarowofussernamecell.getStringCellValue();
+        //  driver.manage().timeouts().implicitlyWait(15,TimeUnit.SECONDS); // it overcome every waiting of the execution step
+          
+         // String userNametestdata="Admin";
+          
+         // <input name="txtUsername" id="txtUsername" type="text">
+          
+          By userNameproperty=By.id("txtUsername");
+          
+          WebElement userName=driver.findElement(userNameproperty);
+       
+          // Operation should be performed on the element - userName
+         // userName.sendKeys(userNametestdata);
+          
+          //identifying properties of password element
+          
+     //     <input name="txtPassword" id="txtPassword" autocomplete="off" type="password">
+          
+	     //String passwordTestData="Niharika1234@";
+	     
+	     By passwordproperty=By.name("txtPassword");
+	     
+	     WebElement password=driver.findElement(passwordproperty);
+	     
+	     //password.sendKeys(passwordTestData);
+	     
+	     //<input type="submit" name="Submit" class="button" id="btnLogin" value="LOGIN">
+	    
+	     By logInbuttonproperty=By.className("button");
+	
+	     WebElement loginbutton=driver.findElement(logInbuttonproperty);
+	     loginbutton.click();
+	     
+	     String expected_OrangeHRMApplicationHomepageText="Admin";
+	     System.out.println("The Expected Text of OrangeHrmApplicationHomepageText is: "+expected_OrangeHRMApplicationHomepageText);
+	     
+	     //ID-welcomeAdmin property
+	     
+	     By welcomeAdminproperty=By.id("welcome");
+	     WebElement welcomeAdmin=driver.findElement(welcomeAdminproperty);
+	     
+	     String actual_OrangeHrmApplicationHomePageText=welcomeAdmin.getText();
+	     System.out.println("The actual Text of OrangeHrm ApplicationHomepage is: "+actual_OrangeHrmApplicationHomePageText);
+	     
+	     //Validating Homepage
+	     if(actual_OrangeHrmApplicationHomePageText.contains(expected_OrangeHRMApplicationHomepageText))
+	     {
+	    	System.out.println("Sucessfully Navigated to OangeHRM ApplicationHomePage is-PASS");
+	    	
+	    	Cell loginTestResultRowofcell = LogInTestDataRow.createCell(2);
+	    	loginTestResultRowofcell.setCellValue("Failed to Navigate t  OrangeHrmApplicationHomepage-fail");
+	    	
+	    	
+	    	
+	     }
+	     else
+	     {
+	    	 System.out.println("failed to Navigat to OrangeHrmApplicationHomePage-Fail");
+	     }
+	     
+	     welcomeAdmin.click();
+	     //Synchronization
+	     //Thread.sleep(5000);//wait time of java
+	     
+	    // By logoutproperty=By.partialLinkText("Log"); -->part of thr text
+	    By logoutProPerty=By.linkText("Logout");
+        
+	    /*
+	     WebDriverWait wait = new WebDriverWait(driver,10);
+	    wait.until(ExpectedCondition.VisiblityOfELementLocated(logoutProPerty));
+	*/
+	    WebElement logOut=driver.findElement(logoutProPerty);
+	    logOut.click();
+	 
+	}
+
+}

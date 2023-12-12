@@ -1,0 +1,417 @@
+2023-11-26 15:21:17,908 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-26 15:21:24,739 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-26 15:21:25,909 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (33ba140753ceb1eb94b05cea44497dd1)] -> id: txtUsername]
+2023-11-26 15:21:26,047 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (33ba140753ceb1eb94b05cea44497dd1)] -> name: txtPassword]
+2023-11-26 15:21:32,288 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-26 15:21:32,339 - Log -INFO - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+2023-11-26 15:21:32,347 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-26 15:21:41,062 - Log -INFO - The firstName is:-[[EdgeDriver: msedge on WINDOWS (33ba140753ceb1eb94b05cea44497dd1)] -> id: firstName]
+2023-11-26 15:21:52,383 - Log -INFO - ****** Successfully Logut *********
+2023-11-26 15:21:53,620 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-26 15:29:24,268 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-26 15:29:25,217 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-26 15:29:26,224 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (73c105fdd142f9afa7535acea4e792a1)] -> id: txtUsername]
+2023-11-26 15:29:26,324 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (73c105fdd142f9afa7535acea4e792a1)] -> name: txtPassword]
+2023-11-26 15:29:27,999 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-26 15:29:28,053 - Log -INFO - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+2023-11-26 15:29:28,060 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-26 15:29:29,242 - Log -INFO - The firstName is:-[[EdgeDriver: msedge on WINDOWS (73c105fdd142f9afa7535acea4e792a1)] -> id: firstName]
+2023-11-26 15:29:40,476 - Log -INFO - ****** Successfully Logut *********
+2023-11-26 15:29:41,655 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-26 15:33:30,695 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-26 15:33:31,241 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-26 15:33:32,090 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (29c4c5c72ab5fa2172624d06ad54bf0a)] -> id: txtUsername]
+2023-11-26 15:33:32,181 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (29c4c5c72ab5fa2172624d06ad54bf0a)] -> name: txtPassword]
+2023-11-26 15:33:33,750 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-26 15:33:33,801 - Log -INFO - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+2023-11-26 15:33:33,811 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-26 15:33:35,089 - Log -INFO - The firstName is:-[[EdgeDriver: msedge on WINDOWS (29c4c5c72ab5fa2172624d06ad54bf0a)] -> id: firstName]
+2023-11-26 15:33:46,232 - Log -INFO - ****** Successfully Logut *********
+2023-11-26 15:33:47,399 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-27 20:39:11,260 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-27 20:39:17,612 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-27 20:39:20,677 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-27 20:41:23,059 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-27 20:41:23,677 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-27 20:41:24,230 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-27 20:42:16,557 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-27 20:42:16,991 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-27 20:42:17,569 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-27 20:45:43,618 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-27 20:45:44,181 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-27 20:45:44,752 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-27 20:46:35,983 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-27 20:46:36,668 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-27 20:46:37,204 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-27 21:36:36,282 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-27 21:36:37,704 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-27 21:36:41,998 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-29 11:58:28,499 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-29 11:58:41,038 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-29 11:58:42,829 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (68952db45e87f07dfd026355fb5eb4b1)] -> id: txtUsername]
+2023-11-29 11:58:43,020 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (68952db45e87f07dfd026355fb5eb4b1)] -> name: txtPassword]
+2023-11-29 11:58:44,274 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-29 11:59:32,283 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-29 12:00:18,599 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-29 12:00:19,540 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-29 12:00:20,854 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (69654c24bdb15a5770a411138859b2d9)] -> id: txtUsername]
+2023-11-29 12:00:21,028 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (69654c24bdb15a5770a411138859b2d9)] -> name: txtPassword]
+2023-11-29 12:00:21,702 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-29 12:00:40,130 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-29 12:05:39,669 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-29 12:05:40,463 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-29 12:06:32,813 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-29 12:07:46,029 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-29 12:07:47,248 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-29 12:07:48,710 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (14c0731e72046945f8f98616bc1364ba)] -> id: txtUsername]
+2023-11-29 12:07:48,873 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (14c0731e72046945f8f98616bc1364ba)] -> name: txtPassword]
+2023-11-29 12:07:49,649 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-29 12:08:10,968 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-29 12:15:17,367 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-29 12:15:18,411 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-29 12:15:37,767 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-29 12:16:25,719 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-29 12:16:26,909 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-29 12:16:56,505 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-29 12:23:29,376 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-29 12:23:30,336 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-29 12:23:32,123 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (f185b465c4e937625eb64aae622cac46)] -> id: txtUsername]
+2023-11-29 12:23:32,363 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (f185b465c4e937625eb64aae622cac46)] -> name: txtPassword]
+2023-11-29 12:23:42,521 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-11-29 12:23:42,600 - Log -INFO - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+2023-11-29 12:23:42,614 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-11-29 12:23:46,529 - Log -INFO - The firstName is:-[[EdgeDriver: msedge on WINDOWS (f185b465c4e937625eb64aae622cac46)] -> id: firstName]
+2023-11-29 12:23:57,763 - Log -INFO - The Expected EmployeeId is :- 0007
+2023-11-29 12:24:14,969 - Log -INFO - ****** Successfully Logut *********
+2023-11-29 12:24:15,558 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-30 13:18:33,170 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-30 13:18:45,656 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-30 13:19:16,718 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-30 13:28:42,283 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-30 13:28:43,525 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-30 13:28:44,853 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-30 13:28:45,012 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-30 13:28:45,026 - Log -INFO - The login page should contains text -Invalid credentials
+2023-11-30 13:28:47,429 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-30 13:28:47,441 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 13:28:52,276 - Log -INFO - Username -Admin
+2023-11-30 13:28:52,294 - Log -INFO - password -Admin
+2023-11-30 13:28:52,315 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-11-30 13:29:06,996 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-30 13:29:07,067 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 13:29:07,081 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 13:29:08,110 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-11-30 20:59:00,313 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-11-30 20:59:06,408 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-11-30 20:59:07,392 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-11-30 20:59:07,454 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-11-30 20:59:07,460 - Log -INFO - The login page should contains text -Invalid credentials
+2023-11-30 20:59:08,958 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-11-30 20:59:08,964 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 20:59:11,637 - Log -INFO - Username -Admin
+2023-11-30 20:59:11,648 - Log -INFO - password -Admin
+2023-11-30 20:59:11,664 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-11-30 20:59:28,114 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-11-30 20:59:28,151 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-11-30 20:59:28,156 - Log -INFO - Successfully navigated to login page - PASS
+2023-11-30 20:59:28,586 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-04 14:45:54,506 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-04 14:45:56,105 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-04 14:45:57,535 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-12-04 14:45:57,616 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-12-04 14:45:57,626 - Log -INFO - The login page should contains text -Invalid credentials
+2023-12-04 14:46:00,232 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-12-04 14:46:00,248 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-04 14:46:04,682 - Log -INFO - Username -Admin
+2023-12-04 14:46:04,698 - Log -INFO - password -Admin
+2023-12-04 14:46:04,719 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-12-04 14:46:27,399 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-04 14:46:27,450 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-04 14:46:27,461 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-04 14:46:28,100 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-04 14:48:59,637 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-04 14:49:01,001 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-04 14:49:02,587 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-12-04 14:49:02,675 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-12-04 14:49:02,687 - Log -INFO - The login page should contains text -Invalid credentials
+2023-12-04 14:49:04,456 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-12-04 14:49:04,467 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-04 14:49:09,002 - Log -INFO - Username -Admin
+2023-12-04 14:49:09,020 - Log -INFO - password -Admin
+2023-12-04 14:49:09,033 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-12-04 14:49:24,172 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-04 14:49:24,241 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-04 14:49:24,255 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-04 14:49:24,981 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-04 14:50:01,826 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-04 14:50:02,705 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-04 14:50:03,996 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-12-04 14:50:04,072 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-12-04 14:50:04,083 - Log -INFO - The login page should contains text -Invalid credentials
+2023-12-04 14:50:06,154 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-12-04 14:50:06,165 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-04 14:50:10,390 - Log -INFO - Username -Admin
+2023-12-04 14:50:10,408 - Log -INFO - password -Admin
+2023-12-04 14:50:10,424 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-12-04 14:50:30,635 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-04 14:50:30,705 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-04 14:50:30,718 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-04 14:50:31,505 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-04 17:02:05,916 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-04 17:02:06,939 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-04 17:02:08,103 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-04 17:03:25,890 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-04 17:03:26,380 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-04 17:03:27,252 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-04 17:03:27,314 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-04 17:03:27,319 - Log -INFO - LOGIN Panel
+2023-12-04 17:03:27,839 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-04 17:34:06,609 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-04 17:34:07,612 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-04 17:34:08,584 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-04 17:34:08,649 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-04 17:34:08,656 - Log -INFO - LOGIN Panel
+2023-12-04 17:34:08,933 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-04 17:34:08,949 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-04 17:34:08,958 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-04 17:34:09,321 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-04 17:43:04,737 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-04 17:43:05,273 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-04 17:43:06,195 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-04 17:43:06,247 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-04 17:43:06,253 - Log -INFO - LOGIN Panel
+2023-12-04 17:43:06,523 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-04 17:43:06,541 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-04 17:43:06,552 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-04 17:43:06,946 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-05 11:11:39,263 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-05 11:11:51,028 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-05 11:11:52,808 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-12-05 11:11:52,948 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-12-05 11:11:52,974 - Log -INFO - The login page should contains text -Invalid credentials
+2023-12-05 11:11:57,507 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-12-05 11:11:57,515 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-05 11:12:01,718 - Log -INFO - Username -Admin
+2023-12-05 11:12:01,734 - Log -INFO - password -Admin
+2023-12-05 11:12:01,748 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-12-05 11:12:23,610 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-05 11:12:23,669 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-05 11:12:23,679 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-05 11:12:24,336 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-05 11:24:36,763 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-05 11:24:47,617 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-05 11:24:48,881 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-12-05 11:24:48,993 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-12-05 11:24:49,004 - Log -INFO - The login page should contains text -Invalid credentials
+2023-12-05 11:24:51,292 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-12-05 11:24:51,301 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-05 11:24:55,445 - Log -INFO - Username -Admin
+2023-12-05 11:24:55,456 - Log -INFO - password -Admin
+2023-12-05 11:24:55,466 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-12-05 11:25:18,582 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-05 11:25:18,636 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-05 11:25:18,646 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-05 11:25:19,298 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-05 11:34:55,013 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-05 11:34:56,071 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-05 11:34:57,214 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-12-05 11:34:57,301 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-12-05 11:34:57,313 - Log -INFO - The login page should contains text -Invalid credentials
+2023-12-05 11:34:59,255 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-12-05 11:34:59,267 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-05 11:35:03,386 - Log -INFO - Username -Admin
+2023-12-05 11:35:03,400 - Log -INFO - password -Admin
+2023-12-05 11:35:03,413 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-12-05 11:35:18,498 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-05 11:35:18,549 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-05 11:35:18,559 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-05 11:35:19,181 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-05 11:41:10,422 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-05 11:41:11,422 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-05 11:41:12,695 - Log -INFO - The  Expected login page should contains text -LOGIN Panel
+2023-12-05 11:41:12,774 - Log -INFO - The Actual Login Page should Contains - LOGIN Panel
+2023-12-05 11:41:12,786 - Log -INFO - The login page should contains text -Invalid credentials
+2023-12-05 11:41:14,878 - Log -INFO - The actual Login Page should contains Invalid credentials
+2023-12-05 11:41:14,889 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-05 11:41:19,076 - Log -INFO - Username -Admin
+2023-12-05 11:41:19,092 - Log -INFO - password -Admin
+2023-12-05 11:41:19,116 - Log -INFO - The Expected Text Homae page should contains - Welcome
+2023-12-05 11:41:33,731 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-05 11:41:33,788 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-05 11:41:33,800 - Log -INFO - Successfully navigated to login page - PASS
+2023-12-05 11:41:34,460 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-05 13:02:39,806 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-05 13:02:41,114 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-05 13:02:42,342 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-05 13:02:42,433 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-05 13:02:42,444 - Log -INFO - LOGIN Panel
+2023-12-05 13:02:42,985 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-05 13:02:43,137 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-05 13:02:43,166 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-05 13:02:43,579 - Log -INFO - The Test Data for User name - valid
+2023-12-05 13:02:43,719 - Log -INFO - The Test Data for Password - valid
+2023-12-05 13:02:53,581 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-05 13:05:36,681 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-05 13:05:37,801 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-05 13:05:39,119 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-05 13:05:39,210 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-05 13:05:39,224 - Log -INFO - LOGIN Panel
+2023-12-05 13:05:39,961 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-05 13:05:39,991 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-05 13:05:40,008 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-05 13:05:40,659 - Log -INFO - The Test Data for User name - Admin
+2023-12-05 13:05:40,856 - Log -INFO - The Test Data for Password - Niharika1234@
+2023-12-05 13:05:43,852 - Log -INFO - The expected Element Text - Admin
+2023-12-05 13:05:43,896 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-12-05 13:05:43,918 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-05 13:05:44,809 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-06 19:22:37,068 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-06 19:22:37,887 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-06 19:22:38,719 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-06 19:22:38,776 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-06 19:22:38,783 - Log -INFO - LOGIN Panel
+2023-12-06 19:22:38,855 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-06 19:22:38,872 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-06 19:22:38,880 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-06 19:22:39,057 - Log -INFO - The Test Data for User name - Admin
+2023-12-06 19:22:39,157 - Log -INFO - The Test Data for Password - Niharika1234@
+2023-12-06 19:22:40,716 - Log -INFO - The expected Element Text - Admin
+2023-12-06 19:22:40,734 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-12-06 19:22:40,741 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-06 19:22:42,342 - Log -INFO - Successfully perform operation on PIM element
+2023-12-06 19:22:52,794 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-06 19:26:29,145 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-06 19:26:29,770 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-06 19:26:30,530 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-06 19:26:30,581 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-06 19:26:30,586 - Log -INFO - LOGIN Panel
+2023-12-06 19:26:30,666 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-06 19:26:30,682 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-06 19:26:30,690 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-06 19:26:30,860 - Log -INFO - The Test Data for User name - Admin
+2023-12-06 19:26:30,962 - Log -INFO - The Test Data for Password - Niharika1234@
+2023-12-06 19:26:32,381 - Log -INFO - The expected Element Text - Admin
+2023-12-06 19:26:32,399 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-12-06 19:26:32,405 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-06 19:26:33,774 - Log -INFO - Successfully perform operation on PIM element
+2023-12-06 19:26:44,252 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-06 19:33:05,034 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-06 19:33:05,595 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-06 19:33:06,358 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-06 19:33:06,410 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-06 19:33:06,415 - Log -INFO - LOGIN Panel
+2023-12-06 19:33:06,691 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-06 19:33:06,706 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-06 19:33:06,716 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-06 19:33:06,917 - Log -INFO - The Test Data for User name - 
+2023-12-06 19:33:06,994 - Log -INFO - The Test Data for Password - 
+2023-12-06 19:33:27,575 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-06 19:38:46,757 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-06 19:38:47,295 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-06 19:38:48,050 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-06 19:38:48,100 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-06 19:38:48,106 - Log -INFO - LOGIN Panel
+2023-12-06 19:38:48,177 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-06 19:38:48,192 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-06 19:38:48,201 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-06 19:38:48,373 - Log -INFO - The Test Data for User name - Admin
+2023-12-06 19:38:48,505 - Log -INFO - The Test Data for Password - Niharika1234@
+2023-12-06 19:38:49,949 - Log -INFO - The expected Element Text - Admin
+2023-12-06 19:38:49,966 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-12-06 19:38:49,974 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-06 19:38:51,364 - Log -INFO - Successfully perform operation on PIM element
+2023-12-06 19:39:01,904 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-06 19:47:19,377 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-06 19:47:23,405 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-06 19:47:24,149 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-06 19:47:24,199 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-06 19:47:24,206 - Log -INFO - LOGIN Panel
+2023-12-06 19:47:24,482 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-06 19:47:24,497 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-06 19:47:24,506 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-06 19:47:24,722 - Log -INFO - The Test Data for User name - Admin
+2023-12-06 19:47:24,815 - Log -INFO - The Test Data for Password - Niharika1234@
+2023-12-06 19:47:28,526 - Log -INFO - The expected Element Text - Admin
+2023-12-06 19:47:28,547 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-12-06 19:47:28,554 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-06 19:47:31,112 - Log -INFO - Successfully perform operation on PIM element
+2023-12-06 19:47:41,617 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-06 19:53:38,698 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-06 19:53:39,329 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-06 19:53:40,064 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-06 19:53:40,111 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-06 19:53:40,116 - Log -INFO - LOGIN Panel
+2023-12-06 19:53:40,335 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-06 19:53:40,351 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-06 19:53:40,361 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-06 19:53:40,583 - Log -INFO - The Test Data for User name - Admin
+2023-12-06 19:53:40,684 - Log -INFO - The Test Data for Password - Niharika1234@
+2023-12-06 19:53:42,017 - Log -INFO - The expected Element Text - Admin
+2023-12-06 19:53:42,037 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-12-06 19:53:42,056 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-06 19:53:43,424 - Log -INFO - Successfully perform operation on PIM element
+2023-12-06 19:53:43,834 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-06 19:56:40,504 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-06 19:56:41,053 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-06 19:56:41,793 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-06 19:56:41,844 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-06 19:56:41,850 - Log -INFO - LOGIN Panel
+2023-12-06 19:56:42,108 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-06 19:56:42,129 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-06 19:56:42,140 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-06 19:56:42,378 - Log -INFO - The Test Data for User name - Admin
+2023-12-06 19:56:42,486 - Log -INFO - The Test Data for Password - Niharika1234@
+2023-12-06 19:56:44,149 - Log -INFO - The expected Element Text - Admin
+2023-12-06 19:56:44,173 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-12-06 19:56:44,181 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-06 19:56:44,379 - Log -INFO - Successfully perform operation on PIM element
+2023-12-06 19:56:54,977 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-06 19:58:08,517 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-06 19:58:09,003 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-06 19:58:09,757 - Log -INFO - The login page should contains text -LOGIN Panel
+2023-12-06 19:58:09,806 - Log -INFO - The Actual login panel should cantains - LOGIN Panel
+2023-12-06 19:58:09,813 - Log -INFO - LOGIN Panel
+2023-12-06 19:58:10,075 - Log -INFO - The login page should contains Title -orangeHRM
+2023-12-06 19:58:10,092 - Log -INFO - The Actual login panel should cantains - OrangeHRM
+2023-12-06 19:58:10,101 - Log -INFO - Successfully navigated to login page - FAIL
+2023-12-06 19:58:10,319 - Log -INFO - The Test Data for User name - Admin
+2023-12-06 19:58:10,411 - Log -INFO - The Test Data for Password - Niharika1234@
+2023-12-06 19:58:11,722 - Log -INFO - The expected Element Text - Admin
+2023-12-06 19:58:11,740 - Log -INFO - The Actual  is Element Text - Welcome Admin
+2023-12-06 19:58:11,748 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-06 19:58:11,937 - Log -INFO - Successfully perform operation on PIM element
+2023-12-06 19:58:13,032 - Log -INFO - The Expected Text that Add Employee page should contains - 
+2023-12-06 19:58:13,097 - Log -INFO - The Actual Text that Add Employee page should - Add Employee
+2023-12-06 19:58:13,104 - Log -INFO - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+2023-12-06 19:58:13,511 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-09 20:54:06,962 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-09 20:54:07,942 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-09 20:54:09,146 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (4888e0dc017a339a964dedf977e2c0fe)] -> id: txtUsername]
+2023-12-09 20:54:09,252 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (4888e0dc017a339a964dedf977e2c0fe)] -> name: txtPassword]
+2023-12-09 20:54:11,589 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-12-09 20:54:11,656 - Log -INFO - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+2023-12-09 20:54:11,709 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-09 20:54:13,480 - Log -INFO - The firstName is:-[[EdgeDriver: msedge on WINDOWS (4888e0dc017a339a964dedf977e2c0fe)] -> id: firstName]
+2023-12-09 20:54:24,426 - Log -INFO - The Expected EmployeeId is :- 0008
+2023-12-09 20:54:40,032 - Log -INFO - ****** Successfully Logut *********
+2023-12-09 20:54:40,652 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-09 20:55:37,778 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-09 20:55:39,877 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-09 20:55:40,976 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (f460326d8f6c3632b841efff172856c6)] -> id: txtUsername]
+2023-12-09 20:55:41,075 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (f460326d8f6c3632b841efff172856c6)] -> name: txtPassword]
+2023-12-09 20:55:43,021 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-12-09 20:55:43,078 - Log -INFO - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+2023-12-09 20:55:43,085 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-09 20:55:44,432 - Log -INFO - The firstName is:-[[EdgeDriver: msedge on WINDOWS (f460326d8f6c3632b841efff172856c6)] -> id: firstName]
+2023-12-09 20:55:55,439 - Log -INFO - The Expected EmployeeId is :- 0009
+2023-12-09 20:56:08,513 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+2023-12-09 20:56:23,482 - Log -INFO -  ***** Successfully launched Chrome Browser ******* 
+2023-12-09 20:56:24,206 - Log -INFO -  Sucessfully navigated to OrangeHRM Application 
+2023-12-09 20:56:25,255 - Log -INFO - The UserName is:-[[EdgeDriver: msedge on WINDOWS (e2199383906c93374e20cb9208b12577)] -> id: txtUsername]
+2023-12-09 20:56:25,375 - Log -INFO - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (e2199383906c93374e20cb9208b12577)] -> name: txtPassword]
+2023-12-09 20:56:27,438 - Log -INFO -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+2023-12-09 20:56:27,494 - Log -INFO - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+2023-12-09 20:56:27,502 - Log -INFO -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+2023-12-09 20:56:28,862 - Log -INFO - The firstName is:-[[EdgeDriver: msedge on WINDOWS (e2199383906c93374e20cb9208b12577)] -> id: firstName]
+2023-12-09 20:56:39,197 - Log -INFO - The Expected EmployeeId is :- 0010
+2023-12-09 20:56:52,065 - Log -INFO -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****

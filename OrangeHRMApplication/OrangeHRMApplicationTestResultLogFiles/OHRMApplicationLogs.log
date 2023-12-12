@@ -1,0 +1,286 @@
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - Username -Admin
+[main] INFO Log - password -Admin
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - Username -Admin
+[main] INFO Log - password -Admin
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - Username -Admin
+[main] INFO Log - password -Admin
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - Username -Admin
+[main] INFO Log - password -Admin
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - Username -Admin
+[main] INFO Log - password -Admin
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - Username -Admin
+[main] INFO Log - password -Admin
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - valid
+[main] INFO Log - The Test Data for Password - valid
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Admin
+[main] INFO Log - The Test Data for Password - Niharika1234@
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Admin
+[main] INFO Log - The Test Data for Password - Niharika1234@
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Admin
+[main] INFO Log - The Test Data for Password - Niharika1234@
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - 
+[main] INFO Log - The Test Data for Password - 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Admin
+[main] INFO Log - The Test Data for Password - Niharika1234@
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Admin
+[main] INFO Log - The Test Data for Password - Niharika1234@
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Admin
+[main] INFO Log - The Test Data for Password - Niharika1234@
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Admin
+[main] INFO Log - The Test Data for Password - Niharika1234@
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - LOGIN Panel
+[main] INFO Log - The login page should contains Title -orangeHRM
+[main] INFO Log - The Actual login panel should cantains - OrangeHRM
+[main] INFO Log - Successfully navigated to login page - FAIL
+[main] INFO Log - The Test Data for User name - Admin
+[main] INFO Log - The Test Data for Password - Niharika1234@
+[main] INFO Log - The expected Element Text - Admin
+[main] INFO Log - The Actual  is Element Text - Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully perform operation on PIM element
+[main] INFO Log - The Expected Text that Add Employee page should contains - 
+[main] INFO Log - The Actual Text that Add Employee page should - Add Employee
+[main] INFO Log - Succesfully Navigated to OrangeHRM Application  Addemployee Page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (4888e0dc017a339a964dedf977e2c0fe)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (4888e0dc017a339a964dedf977e2c0fe)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The firstName is:-[[EdgeDriver: msedge on WINDOWS (4888e0dc017a339a964dedf977e2c0fe)] -> id: firstName]
+[main] INFO Log - The Expected EmployeeId is :- 0008
+[main] INFO Log - ****** Successfully Logut *********
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (f460326d8f6c3632b841efff172856c6)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (f460326d8f6c3632b841efff172856c6)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The firstName is:-[[EdgeDriver: msedge on WINDOWS (f460326d8f6c3632b841efff172856c6)] -> id: firstName]
+[main] INFO Log - The Expected EmployeeId is :- 0009
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (e2199383906c93374e20cb9208b12577)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (e2199383906c93374e20cb9208b12577)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The firstName is:-[[EdgeDriver: msedge on WINDOWS (e2199383906c93374e20cb9208b12577)] -> id: firstName]
+[main] INFO Log - The Expected EmployeeId is :- 0010
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****

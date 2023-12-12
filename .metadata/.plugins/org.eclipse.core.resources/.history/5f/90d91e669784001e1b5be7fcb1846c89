@@ -1,0 +1,108 @@
+package OrangeHRMApplication;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.concurrent.TimeUnit;
+
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+import com.google.common.collect.Table.Cell;
+
+public class BaseTest {
+
+	WebDriver driver;
+	String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard";
+	
+	@BeforeTest
+	public void Setup() 
+	{
+		
+		//Automating edgeDriver Browser
+		System.setProperty("webdriver.edge.driver", "C:\\Users\\NIHARIKA\\Desktop\\Neha\\OrangeHRMApplication\\BrowserDriverFiles\\msedgedriver.exe");
+		driver=new EdgeDriver();
+		System.out.println(" ***** Successfully launched Edge Browser******");
+		
+		driver.get(applicationUrlAddress);
+		System.out.println("Sucessfully navigated to OrangeHRM Application");
+		
+		driver.manage().window().maximize();
+		
+		driver.manage().timeouts().pageLoadTimeout(20,TimeUnit.SECONDS);
+		
+		
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		
+   }
+	@AfterTest
+	public void tearDown() 
+	{
+		
+		driver.quit();
+		System.out.println(" ****Edge Brwser alng with OrangeHRMApplication***** ");
+		
+	}
+
+ }
+
+class LongInTest extends BaseTest
+{
+	//Validating Login Page
+	
+	WebElement welcomeAdmin;
+	@Test(priority=1,description="Validating Login Functionality Test")
+    public void loginTest() throws IOException 
+	{
+		FileInputStream orangeHRMApllicationLonInTestDataFile=new FileInputStream("C:\\Users\\NIHARIKA\\Desktop\\Neha\\OrangeHRMApplication\\src\\OrangeHRMTestDatafiles\\OrangeHRMApplicationLogInTestData.xlsx");
+		XSSFWorkbook workBook = new XSSFWorkbook(orangeHRMApllicationLonInTestDataFile);
+		XSSFSheet logintestDataSheet= workBook.getSheet("LoginTestData");
+		
+		XSSFRow logintestdataRow=logintestDataSheet.getRow(1);
+		XSSFCell logintestdataRowofcell = logintestdataRow.getCell(0);
+		
+		String userNameTestData=logintestdataRowofcell.getStringCellValue();
+		// String userNameTestData="srini";
+		
+		By UserNameProperty=By.id("txtUsername");
+		
+		//finding an element with the property in the current webpage
+
+		
+		WebElement userName=driver.findElement(UserNameProperty);
+
+		// Operation should be performed on the element - userName
+		userName.sendKeys(userNameTestData);
+		
+		// Identifying properties of Password Element
+		// <input name="txtPassword" autocomplete="off" type="password">
+        
+	 XSSFCell logintestdataRowofpasswordcell=logintestdataRow.getCell(1);
+	 String passwordTestData=logintestdataRowofpasswordcell.getStringCellValue();
+	
+
+	//String passwordTestData="Q@Trainer7";
+
+	// identify the property of Password Element
+	 By passwordproperty=By.name("txtPassword");
+	// identifying the element password with its property
+	 WebElement  password=driver.findElement(passwordproperty);
+	
+	// Performing an operation on the WebElement Password
+	 password.sendKeys(passwordTestData);
+	 
+	 //// <input type="submit"  class="button"  value="LOGIN">
+	 
+	 By lginButtonproperty=By.className("button");
+		
+	}
+}

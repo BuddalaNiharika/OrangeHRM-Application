@@ -1,0 +1,131 @@
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (33ba140753ceb1eb94b05cea44497dd1)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (33ba140753ceb1eb94b05cea44497dd1)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The firstName is:-[[EdgeDriver: msedge on WINDOWS (33ba140753ceb1eb94b05cea44497dd1)] -> id: firstName]
+[main] INFO Log - ****** Successfully Logut *********
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (73c105fdd142f9afa7535acea4e792a1)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (73c105fdd142f9afa7535acea4e792a1)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The firstName is:-[[EdgeDriver: msedge on WINDOWS (73c105fdd142f9afa7535acea4e792a1)] -> id: firstName]
+[main] INFO Log - ****** Successfully Logut *********
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (29c4c5c72ab5fa2172624d06ad54bf0a)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (29c4c5c72ab5fa2172624d06ad54bf0a)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The firstName is:-[[EdgeDriver: msedge on WINDOWS (29c4c5c72ab5fa2172624d06ad54bf0a)] -> id: firstName]
+[main] INFO Log - ****** Successfully Logut *********
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (68952db45e87f07dfd026355fb5eb4b1)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (68952db45e87f07dfd026355fb5eb4b1)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (69654c24bdb15a5770a411138859b2d9)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (69654c24bdb15a5770a411138859b2d9)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (14c0731e72046945f8f98616bc1364ba)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (14c0731e72046945f8f98616bc1364ba)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The UserName is:-[[EdgeDriver: msedge on WINDOWS (f185b465c4e937625eb64aae622cac46)] -> id: txtUsername]
+[main] INFO Log - The passwrd is :- [[EdgeDriver: msedge on WINDOWS (f185b465c4e937625eb64aae622cac46)] -> name: txtPassword]
+[main] INFO Log -  The Expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Succesfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - The firstName is:-[[EdgeDriver: msedge on WINDOWS (f185b465c4e937625eb64aae622cac46)] -> id: firstName]
+[main] INFO Log - The Expected EmployeeId is :- 0007
+[main] INFO Log - ****** Successfully Logut *********
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - Username -Admin
+[main] INFO Log - password -Admin
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - Username -Admin
+[main] INFO Log - password -Admin
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****
+[main] INFO Log -  ***** Successfully launched Chrome Browser ******* 
+[main] INFO Log -  Sucessfully navigated to OrangeHRM Application 
+[main] INFO Log - The  Expected login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual Login Page should Contains - LOGIN Panel
+[main] INFO Log - The login page should contains text -Invalid credentials
+[main] INFO Log - The actual Login Page should contains Invalid credentials
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log - Username -Admin
+[main] INFO Log - password -Admin
+[main] INFO Log - The Expected Text Homae page should contains - Welcome
+[main] INFO Log - The login page should contains text -LOGIN Panel
+[main] INFO Log - The Actual login panel should cantains - LOGIN Panel
+[main] INFO Log - Successfully navigated to login page - PASS
+[main] INFO Log -  ********* Chrome Browser along with OrangeHRM Application Closed Successfully *****

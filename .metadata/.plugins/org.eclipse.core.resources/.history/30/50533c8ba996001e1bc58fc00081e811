@@ -1,0 +1,48 @@
+
+
+#                     Key                     = property f the element
+
+#orangeHRMApplicationLogInPageLoginPanelProperty-locator is id
+logInPanelHeadinglogInPanelHeading = logInPanelHeading
+
+# OrangeHRM Application UserName Element Property - the locator is id
+orangeHRMApplicationLogInPageUserNameProperty=txtUsername
+
+# OrangeHRM Application Password Element Property - the locator is name
+orangeHRMApplicationLogInPagePasswordProperty=txtPassword
+
+# OrangeHRM Application LogInButton Element Property - the locator is className
+orangeHRMApplicationLogInPageLogInButtonProperty=button
+
+#orangeHRMApplicationLogInPageInvalidCredentialsProperty-locator id
+orangeHRMApplicationLogInPageInvalidCredentialsProperty = spanMessage
+
+# OrangeHRM Application HomePage WelcomeAdmin Element Property - the locator is id
+ornagehRMApplicationHomePageWelComAdminProperty=welcome
+
+# OrangeHRM Application HomePage LogOut Element Property - the locator is linkText
+ornagehRMApplicationHomePageLogOutProperty=Logout
+
+#OrangeHRMApplicationPimproperty-locator of the pim
+OrangeHRMApplicationPimproperty=menu_pim_viewPimModule
+
+#OrangeHRMApplicationHeaderBlockproperty - locatr is xpath
+OrangeHRMApplicationHeaderBlockproperty=/html/body/div[1]/div[3]/div/div[1] 
+
+#OrangeHRMApplicatinpageztextProperty
+OrangeHRMApplicatinpageztextProperty = h1
+
+#OrangeHRMApplicationaddEmplooyeeproperty-locator of the addEmployee
+OrangeHRMApplicationaddEmplooyeeproperty=menu_pim_addEmployee
+
+
+
+#OrangeHRMApplicationaddEmployeeFirstName- firstName locator is id
+OrangeHRMApplicationaddEmployeeFirstName=firstName
+
+#OrnageHRMApplicationAddEmplyeeEmployeeId-locatorid
+OrnageHRMApplicationAddEmplyeeEmployeeId=employeeId
+
+#OrangeHRMaddEmployeesavebutton-locatr is id
+OrangeHRMaddEmployeesavebutton=btnSave
+

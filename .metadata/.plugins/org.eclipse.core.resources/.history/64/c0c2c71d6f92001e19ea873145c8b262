@@ -1,0 +1,27 @@
+package com.OHRMRevision;
+
+import org.openqa.selenium.edge.EdgeDriver;
+
+public class OHRMApplication {
+	
+	public static void main(String[] args) throws InterruptedException {
+		
+		// Identifying the Browser in the System - Chrome Browser
+	//  Automating Chrome Browser
+	System.setProperty("webdriver.edge.driver",
+	"C:\\Users\\NIHARIKA\\Desktop\\Neha\\Autmation\\BrowserDriverfiles\\msedgedriver.exe");
+
+	// ChromeDriver - its a class of Selenium
+	// class cannot be directly interacted with
+	// To interact with the Class - we should create an Object to the Class
+	EdgeDriver EdgeBrowser = new EdgeDriver (); // srini is an object to the class created
+	
+	EdgeBrowser.get("http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login");
+	
+	Thread.sleep(5000);
+	
+	EdgeBrowser.close();
+	
+	}
+
+}

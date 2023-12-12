@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHRMApplication]">
+  <test thread-count="5" parallel="tests" name="LogInTest(failed)">
+    <classes>
+      <class name="OrangeHRMApplicationTesting.LogInTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="newAddNewEmployeeTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- OrangeHRMApplicationTesting.LogInTest -->
+    </classes>
+  </test> <!-- LogInTest(failed) -->
+</suite> <!-- Failed suite [OrangeHRMApplication] -->

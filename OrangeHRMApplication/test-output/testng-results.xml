@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-09T20:56:21 IST" name="Default suite" finished-at="2023-12-09T20:56:52 IST" duration-ms="30861">
+    <groups>
+    </groups>
+    <test started-at="2023-12-09T20:56:21 IST" name="Default test" finished-at="2023-12-09T20:56:52 IST" duration-ms="30861">
+      <class name="OrangeHRMApplicationTesting.LogInTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:OrangeHRMApplicationTesting.LogInTest@49c7b90e]" started-at="2023-12-09T20:56:21 IST" name="setUp" finished-at="2023-12-09T20:56:24 IST" duration-ms="3141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logInTest()[pri:1, instance:OrangeHRMApplicationTesting.LogInTest@49c7b90e]" started-at="2023-12-09T20:56:24 IST" name="logInTest" description="Validating Login Functinality Test" finished-at="2023-12-09T20:56:27 IST" duration-ms="3375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method signature="pimTest()[pri:2, instance:OrangeHRMApplicationTesting.LogInTest@49c7b90e]" started-at="2023-12-09T20:56:27 IST" name="pimTest" description="validating PIM functionality in OrangeHRMApplicatin" finished-at="2023-12-09T20:56:27 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pimTest -->
+        <test-method signature="addEmployeeTest()[pri:3, instance:OrangeHRMApplicationTesting.LogInTest@49c7b90e]" started-at="2023-12-09T20:56:27 IST" name="addEmployeeTest" description="validating Add employee Functinality test" finished-at="2023-12-09T20:56:28 IST" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeeTest -->
+        <test-method signature="newAddNewEmployeeTest()[pri:4, instance:OrangeHRMApplicationTesting.LogInTest@49c7b90e]" started-at="2023-12-09T20:56:28 IST" name="newAddNewEmployeeTest" description="validating Add New employee functionality Application" finished-at="2023-12-09T20:56:51 IST" duration-ms="22904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newAddNewEmployeeTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:OrangeHRMApplicationTesting.LogInTest@49c7b90e]" started-at="2023-12-09T20:56:51 IST" name="tearDown" finished-at="2023-12-09T20:56:52 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- OrangeHRMApplicationTesting.LogInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
